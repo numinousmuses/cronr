@@ -14,7 +14,7 @@ Inspired from unix `cron`, `cronr` is served as an time-based job scheduler whic
 
 ## Online demo
 
-[Cronr stroies -- online samples](https://ryuever.github.io/cronr/)
+[Cronr stories -- online samples](https://ryuever.github.io/cronr/)
 
 ## Installation
 
